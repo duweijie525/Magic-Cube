@@ -1,0 +1,11 @@
+@keyframes rotate0{ /* 动画rotate0 */
+    0%{
+        transform: translateZ(-400px) rotateX(500deg);
+}
+	50%{
+        transform: translateZ(-400px) rotateY(300deg);
+}
+	100%{
+		transform: translateZ(-400px) rotateZ(200deg);
+	}
+}
